@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840292487002",
+    "firebase_url": "https://arizavebakim-38b3a-default-rtdb.firebaseio.com",
+    "project_id": "arizavebakim-38b3a",
+    "storage_bucket": "arizavebakim-38b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840292487002:android:119fd86f751b21204bed63",
+        "android_client_info": {
+          "package_name": "com.staj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840292487002-f3ibpgdev6pg59670jfcvh7tkpd77qr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6PSOITDh87AkI3THYLruyhmpX8NU1hD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840292487002-f3ibpgdev6pg59670jfcvh7tkpd77qr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
